@@ -553,6 +553,7 @@
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic) - Smart home devices.
 - [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works.
+- [Web Scraping](https://github.com/lorien/awesome-web-scraping) - Programming language libraries related to web scraping and data processing.
 
 
 ## License
